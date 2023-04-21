@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 0,
-    item_name: "Salary",
+    itemName: "Salary",
     amount: 5000,
     date: "2022-01-31",
     from: "Employer",
@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     id: 1,
-    item_name: "Rent",
+    itemName: "Rent",
     amount: -1200,
     date: "2022-01-01",
     from: "Landlord",
@@ -17,7 +17,7 @@ module.exports = [
   },
   {
     id: 2,
-    item_name: "Groceries",
+    itemName: "Groceries",
     amount: 150,
     date: "2022-01-05",
     from: "Supermarket",
@@ -25,7 +25,7 @@ module.exports = [
   },
   {
     id: 3,
-    item_name: "Gas",
+    itemName: "Gas",
     amount: -35,
     date: "2022-01-10",
     from: "Gas Station",
@@ -33,7 +33,7 @@ module.exports = [
   },
   {
     id: 4,
-    item_name: "Bonus",
+    itemName: "Bonus",
     amount: 1000,
     date: "2022-01-15",
     from: "Employer",
@@ -41,7 +41,7 @@ module.exports = [
   },
   {
     id: 5,
-    item_name: "Phone Bill",
+    itemName: "Phone Bill",
     amount: -80,
     date: "2022-01-20",
     from: "Phone Company",
@@ -49,7 +49,7 @@ module.exports = [
   },
   {
     id: 6,
-    item_name: "Dentist",
+    itemName: "Dentist",
     amount: -200,
     date: "2022-01-25",
     from: "Dentist",
@@ -57,7 +57,7 @@ module.exports = [
   },
   {
     id: 7,
-    item_name: "Movie Ticket",
+    itemName: "Movie Ticket",
     amount: -20,
     date: "2022-01-28",
     from: "Movie Theater",
@@ -65,7 +65,7 @@ module.exports = [
   },
   {
     id: 8,
-    item_name: "Savings",
+    itemName: "Savings",
     amount: 500,
     date: "2022-01-30",
     from: "Self",
@@ -73,7 +73,7 @@ module.exports = [
   },
   {
     id: 9,
-    item_name: "Gift",
+    itemName: "Gift",
     amount: 50,
     date: "2022-01-31",
     from: "Friend",
