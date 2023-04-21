@@ -4,7 +4,7 @@ const cors = require("cors");
 const logger = require("morgan");
 const transactionsController = require("./controllers/transactionsController.js");
 
-app.use(expresss.json()); //parse incoming data
+app.use(express.json()); //parse incoming data
 app.use(cors());
 
 app.use(logger("dev")); //used with morgan package
